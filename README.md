@@ -1,20 +1,24 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Task Tracker
 
-# Run and deploy your AI Studio app
+## Overview
+Task Tracker is an AI-powered productivity platform that helps users manage tasks, generate AI-powered schedules, track progress, and improve productivity.
 
-This contains everything you need to run your app locally.
+## Features
+- Task Management
+- AI Steps Assistant
+- Smart Scheduling
+- Calendar Integration
+- Notifications
+- Task Kingdom Leaderboard
+- Productivity Analytics
 
-View your app in AI Studio: https://ai.studio/apps/ec551a43-cd5e-4e6a-b912-caf1561f667c
+## Technologies Used
+- React.js
+- Tailwind CSS
+- Node.js
+- Express.js
+- MongoDB Atlas
+- Gemini API
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Live Demo
+https://jovial-rolypoly-7ef0ee.netlify.app/
