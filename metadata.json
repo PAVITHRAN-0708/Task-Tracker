@@ -1,0 +1,6 @@
+{
+  "name": "Task Tracker",
+  "description": "An intelligent AI-powered task management platform featuring broken-down subtasks, smart schedules, a dynamic calendar, and a gamified productivity ecosystem called Task Kingdom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
